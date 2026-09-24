@@ -107,3 +107,4 @@ public class Producto {
 | ¿Valida los datos que ingresa el usuario? | No |
 
 - [Bitacora de prompts](prompts/BITACORA.md)
+- [Tarea: mi prompt profesional](prompts/TAREA.md)
